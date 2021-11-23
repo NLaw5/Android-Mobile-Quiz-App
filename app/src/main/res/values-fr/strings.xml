@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Demande de quiz</string>
+    <string name="Question1">Une pomme de terre est un fruit</string>
+    <string name="Question2">Deux plus deux égalent 5</string>
+    <string name="Question3">La Grosse Pomme fait référence à New York</string>
+    <string name="Question4">Toronto est la capitale de l\'Ontario.</string>
+    <string name="average">Obtenez la moyenne</string>
+    <string name="savedResults">Réinitialiser les résultats enregistrés</string>
+    <string name="toastAverage">Voici votre moyenne pour ce quiz :</string>
+    <string name="toastDelete">Supprimer tous les enregistrements des quiz précédents</string>
+    <string name="total1">Ton score est:</string>
+    <string name="total2">sur 4</string>
+    <string name="Result">Résultat</string>
+    <string name="Ignore">Ignorer</string>
+    <string name="Average">Moyenne</string>
+    <string name="Delete">Effacer</string>
+    <string name="Save">Sauvegarder</string>
+    <string name="Correct">Correcte</string>
+    <string name="Incorrect">Incorrecte</string>
+    <string name="falseButton">Faux</string>
+    <string name="trueButton">Vrai</string>
+</resources>

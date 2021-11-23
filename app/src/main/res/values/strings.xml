@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Quiz Application</string>
+    <string name="Question1">A Potato is a Fruit</string>
+    <string name="Question2">Two plus two equals 5</string>
+    <string name="Question3">The Big Apple refers to New York</string>
+    <string name="Question4">Toronto is the capital city of Ontario.</string>
+    <string name="average">Get the Average</string>
+    <string name="savedResults">Reset the saved Results</string>
+    <string name="toastAverage">Here is your average for this quiz: </string>
+    <string name="toastDelete">Deleting all records from previous quizzes</string>
+    <string name="total1">Your Score is: </string>
+    <string name="total2"> out of 4</string>
+    <string name="Result">Result</string>
+    <string name="Ignore">Ignore</string>
+    <string name="Average">Average</string>
+    <string name="Delete">Delete</string>
+    <string name="Save">Save</string>
+    <string name="Correct">Correct</string>
+    <string name="Incorrect">Incorrect</string>
+    <string name="falseButton">False</string>
+    <string name="trueButton">True</string>
+</resources>
